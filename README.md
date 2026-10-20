@@ -3,7 +3,7 @@
   <img src="assets/intro-light-686dfb98.svg" width="349" alt="Armaan Parvez, product designer, 4 years, Lucknow, India">
 </picture>
 
-I design products end to end, from research and flows to the interface and the system behind it, most recently across seven web and mobile products at Dinnova AG in Switzerland, and I build my own with AI.
+I like to understand a problem before I open Figma, I stay close to product and engineering until it ships, and I use AI every day to research, test ideas and build my own products, but the design calls are always mine.
 
 <p>
   <a href="https://armaanux.in"><img src="assets/btn-portfolio-18a45d55.svg" width="128" alt="Portfolio"></a>
