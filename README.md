@@ -2,7 +2,7 @@
 
 <p><a href="https://armaanux.in"><img src="assets/btn-portfolio.svg" width="119.29" alt="Portfolio"></a><a href="https://armaanux.in/Armaan-Parvez-Product-Designer-Resume.pdf"><img src="assets/btn-resume.svg" width="116.72" alt="Resume"></a><a href="https://www.linkedin.com/in/armaanux"><img src="assets/btn-linkedin.svg" width="119.49" alt="LinkedIn"></a><a href="mailto:helloarmaanux@gmail.com"><img src="assets/btn-email.svg" width="98.88" alt="Email"></a></p>
 
-I like getting to the bottom of a problem before touching the screens. I handle the whole thing, from research and flows to the interface and the design system behind it, and I build my own products with Claude.
+I like getting to the bottom of a problem before touching the screens. I handle the whole thing, from research and flows to the interface and the design system behind it, and I build my own products with AI.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-experience-dark.svg"><img src="assets/label-experience-light.svg" width="400" alt="Experience"></picture>
 
